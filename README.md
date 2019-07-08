@@ -24,4 +24,8 @@ Child friendly, WiFi based EggBot with Web Interface. Just upload *.svg file and
 - [x] Automatically home cycle when start drawing and after changing color pen.
 
 ### Credits
- [EggBot](https://egg-bot.com/) 
+ [EggBot](https://egg-bot.com/) <br>
+ [Arduino](https://www.arduino.cc/en/main/software/)<br>
+ [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/) <br>
+ [ESP8266 QRcode](https://github.com/anunpanya/ESP8266_QRcode) <br>
+ [nanosvgjs](https://github.com/deanm/nanosvgjs) <br>
