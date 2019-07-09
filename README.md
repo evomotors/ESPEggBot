@@ -3,7 +3,7 @@
 ### Project features
 Child friendly, WiFi based EggBot with Web Interface. Just upload *.svg file and click button to start drawing.
 
-[![Demo video](https://user-images.githubusercontent.com/19974755/60900190-cbf24a80-a239-11e9-9bfd-a68f9473a3cb.png)](https://youtu.be/IVm5nGUV1zs "Demo video")
+[![Demo video](https://user-images.githubusercontent.com/19974755/60909405-298f9280-a24c-11e9-989c-201c35b35326.png)](https://youtu.be/IVm5nGUV1zs "Demo video")
 
 ### Hardware
 1. NodeMCU board X 1 <br>
