@@ -20,10 +20,12 @@ Child friendly, WiFi based EggBot with Web Interface. Just upload *.svg file and
 - [x] No external software needed (assuming you already have .svg files). Open web browser, select .svg file, Click Start button.
 - [x] Render WiFi QR Code on OLED screen to configure WiFi router's SSID and password.
 - [x] Render EggBot IP Address QR Code on OLED screen to connect to EggBot UI from mobile device.
-- [x] Friendly Web UI. 
+- [x] Friendly Web UI. (computer and mobile device)
+- [x] Monitor progress from Web UI. (computer and mobile device)
 - [x] Automatically split multi-colored .svg files into layers.
+- [x] Auto Homing cycle (no need to remember to move arm) 
 - [ ] Automatically stop and prompt to change the color pen when drawing with multiple colors.
-- [x] Automatically home cycle when start drawing and after changing color pen.
+- [ ] Automatically home cycle when start drawing and after changing color pen.
 
 ### Credits
  [EggBot](https://egg-bot.com/) <br>
